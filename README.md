@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanmus7 or just Kanmus.
 - 👀 I’m interested in Frontend develop and social Siencies. rare?
-- 🌱 I’m currently learning html, css and Javascript.
+- 🌱 I’m currently learning tailwind, nextjs and nestjs
 
 
 <!---
